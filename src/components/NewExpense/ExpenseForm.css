@@ -24,3 +24,15 @@
 .new-expense__actions {
 	text-align: right;
 }
+@media (max-width: 768px) {
+	.new-expense__form {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		text-align: center;
+	}
+	.new-expense__controls {
+		text-align: center;
+		justify-content: center;
+	}
+}

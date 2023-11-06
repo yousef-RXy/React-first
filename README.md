@@ -1,1 +1,1 @@
-Visit [Expense Tracker](https://yousef-rxy.github.io/expenseTracker/) to try the web app
+The [Expense Tracker](https://yousef-rxy.github.io/expenseTracker/) is a web application designed to help users track their expenses on a monthly and yearly basis. It provides a user-friendly interface for recording and categorizing expenses. The application is fully responsive, ensuring a seamless experience on both desktop and mobile devices. The frontend was built using the React framework.
